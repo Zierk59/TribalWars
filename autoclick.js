@@ -1,5 +1,5 @@
 const template = "b";
-const delay_between_clicks = 250; // ms
+const delay_between_clicks = 300; // ms
 
 var light_to_send = Number(document.getElementsByName("light")[1].value);
 
